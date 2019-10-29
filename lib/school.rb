@@ -18,8 +18,7 @@ class School
     self.roster[grade]
   end
   
-  def sort.roster.each do 
-    
+  def sort.roster.each do |grades, 
   
   
   
