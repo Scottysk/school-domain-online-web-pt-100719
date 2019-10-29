@@ -1,6 +1,6 @@
 class School
   
-  def initialized
+  def initialize(school)
   
   
   
